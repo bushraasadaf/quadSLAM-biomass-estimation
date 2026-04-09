@@ -10,7 +10,7 @@ Unlike most aerial methods, this system operates under the canopy, enabling prec
 Sensors → SLAM → Mapping → Feature Extraction → Biomass Estimation
 
 **Applications**:
-Forest carbon stock estimation
-Precision agriculture
-Environmental monitoring
+Forest carbon stock estimation,
+Precision agriculture,
+Environmental monitoring,
 Smart forestry automation
