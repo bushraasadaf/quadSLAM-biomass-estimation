@@ -1,4 +1,4 @@
-Autonomous Quadruped Navigation for Under-Canopy Biomass Estimation using LiDAR–Visual SLAM
+**Autonomous Quadruped Navigation for Under-Canopy Biomass Estimation using LiDAR–Visual SLAM**
 **Overview:**
 
 This project focuses on estimating Above-Ground Biomass (AGB) in forests and orchards using an autonomous quadruped robot equipped with LiDAR–Visual SLAM.
